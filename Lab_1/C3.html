@@ -4,51 +4,56 @@
 <head>
     <meta charset="utf-8" />
     <title>Ćwiczenie 3</title>
+    <link rel="stylesheet" href="style.css" />
     <style>
-        body{
-            margin:0 auto;
-        }
         div, img {
             width: 100px;
             height: 100px;
             margin: 5%;
-            display:inline-block;
+            display: inline-block;
+            box-shadow: aquamarine 0px 0px 50px;
         }
-        span {
-            position:relative;
+
+        .row {
+            box-shadow: none;
             width: 100%;
-            margin: 0;
-            text-align:center;
+            margin: 5% 0;
+            text-align: center;
             display: block;
         }
-        #D1{
+
+        #D1 {
             background-color: darksalmon;
         }
-        #D2{
+
+        #D2 {
             background-color: crimson;
         }
-        #D3{
-            background: url(Img2.png) no-repeat;
+
+        #D3 {
             background-size: 100px;
             border: none;
         }
-        #D4{
+
+        #D4 {
             background-color: azure;
         }
-        #D5{
-            background-color:darkgoldenrod;
+
+        #D5 {
+            background-color: darkgoldenrod;
         }
     </style>
 </head>
 <body>
-    <span>
+    <a href="index.html" class="return">Powrót</a>
+    <div class="row">
         <div id="D1"></div>
         <div id="D2"></div>
-    </span>
-    <span>
-        <img id="D3"/>
+    </div>
+    <div class="row">
+        <img id="D3" src="Img2.png" alt="Obraz zamiast koloru" />
         <div id="D4"></div>
         <div id="D5"></div>
-    </span>
+    </div>
 </body>
 </html>

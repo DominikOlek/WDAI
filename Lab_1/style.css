@@ -1,0 +1,12 @@
+﻿body {
+    background-color: black;
+    color: white;
+}
+h1, h4 {
+    text-align: center;
+}
+.return{
+    position:absolute;
+    color:white;
+    text-decoration:none;
+}
