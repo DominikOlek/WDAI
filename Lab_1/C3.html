@@ -5,24 +5,32 @@
     <meta charset="utf-8" />
     <title>Ćwiczenie 3</title>
     <style>
-        div {
+        body{
+            margin:0 auto;
+        }
+        div, img {
             width: 100px;
             height: 100px;
             margin: 5%;
             display:inline-block;
         }
-        span{
-            width:100%;
-            display:block;
+        span {
+            position:relative;
+            width: 100%;
+            margin: 0;
+            text-align:center;
+            display: block;
         }
         #D1{
-            background-color: aliceblue;
+            background-color: darksalmon;
         }
         #D2{
             background-color: crimson;
         }
         #D3{
-            background-color: aquamarine;
+            background: url(Img2.png) no-repeat;
+            background-size: 100px;
+            border: none;
         }
         #D4{
             background-color: azure;
@@ -38,7 +46,7 @@
         <div id="D2"></div>
     </span>
     <span>
-        <div id="D3"></div>
+        <img id="D3"/>
         <div id="D4"></div>
         <div id="D5"></div>
     </span>
