@@ -1,0 +1,111 @@
+﻿<!DOCTYPE html>
+
+<html lang="pl" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Ćwiczenie 3</title>
+    <link rel="stylesheet" href="" />
+    <style>
+        h1{
+            text-align:center;
+        }
+        form{
+            text-align:center;
+        }
+        table{
+            margin:auto;
+            width:90%;
+        }
+        .subTable{
+            background-color:antiquewhite;
+            margin: 10px auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>Ćwiczenie 3</h1>
+    <form id="form" onsubmit="return false;">
+        <label><input type="text" placeholder="Wpisz frazę" name="fraza" oninput="download()"></label>
+        <label>
+            <select onchange="download()" name="kol">
+                <option value="origin">Oryginalna</option>
+                <option value="up">Rosnąco</option>
+                <option value="down">Malejąco</option>
+            </select>
+        </label>
+    </form>
+    <table id="tabela">
+    </table>
+</body>
+</html>
+<script>
+    const tab = document.querySelector("#tabela");
+    const form = document.querySelector("#form");
+
+    function download() {
+        deleteChild();
+        fraza = form.fraza.value;
+        kolejnosc = form.kol.value;
+        console.log(fraza,kolejnosc);
+        fetch('https://dummyjson.com/products')
+            .then(response => {
+                if (!response.ok) {
+                    console.log("error zwrocony przez serwer");
+                }
+                return response.json();
+            })
+            .then(data => {
+                let i = 0;
+                if (kolejnosc == 'down') {
+                    data['products'].sort((first, second) => (
+                        (first.title > second.title ? 1 : (first.title < second.title ? -1 : 0))
+                    ));
+                } else if (kolejnosc == 'up') {
+                    data['products'].sort((first, second) => (
+                        (first.title > second.title ? -1 : (first.title < second.title ? 1 : 0))
+                    ));
+                }
+                data['products'].forEach((v, k) => {
+                    if (fraza == "" || (v.title.toLowerCase().search(fraza.toLowerCase())) > -1 || (v.description.toLowerCase().search(fraza.toLowerCase())) > -1) {
+                        if (i > 30) { return; }
+                        let tab2 = document.createElement('table');
+                        let line1 = document.createElement('tr');
+                        let line2 = document.createElement('tr');
+                        let title = document.createElement('td');
+                        let desc = document.createElement('td');
+                        let imgTd = document.createElement('td');
+                        let img = document.createElement('img');
+
+                        tab2.setAttribute('class', 'subTable');
+                        title.textContent = v.title;
+                        line1.appendChild(title);
+                        img.src = v.images[0];
+                        img.style.width = '100px';
+                        img.style.height = '100px';
+                        img.style.float = 'right';
+                        imgTd.rowSpan = 2;
+                        imgTd.appendChild(img);
+                        line1.appendChild(imgTd);
+                        desc.textContent = v.description;
+                        line2.appendChild(desc);
+                        tab2.appendChild(line1);
+                        tab2.appendChild(line2);
+                        tab.appendChild(tab2);
+                        i += 1;
+                    }
+                })
+            })
+            .catch(error => {
+                console.log("error zapytania");
+            })
+    }
+
+    function deleteChild() {
+        let child = tab.lastElementChild;
+        while (child) {
+            tab.removeChild(child);
+            child = tab.lastElementChild;
+        }
+    }
+    download();
+</script>

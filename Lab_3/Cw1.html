@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+
+<html lang="pl" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Main</title>
+    <link rel="stylesheet" href="" />
+    <style>
+    </style>
+</head>
+<body>
+    <h1>Ćwiczenie 1</h1>
+    <input type="button" value="Start" onclick="start()"/>
+    <input type="button" value="Stop" onclick="stop()"/>
+    <input type="button" value="Reset" onclick="reset()"/>
+    <h2 class="screen"></h2>
+
+</body>
+</html>
+<script>
+    var starttime;
+    var current=0;
+    var interval;
+    const showElement = document.querySelector(".screen");
+
+    showElement.innerHTML = "00min 00s";
+    function start() {
+        if (!interval) {
+            starttime = new Date().getTime() - current;
+            interval = setInterval(update, 1000);
+        }
+    }
+    function reset() {
+        stop();
+        current = 0;
+        showElement.innerHTML = "00min 00s";
+    }
+    function stop() {
+        clearInterval(interval);
+        interval = null;
+    }
+    function update() {
+        current = new Date().getTime() - starttime;
+        let s = Math.floor(current / 1000) % 60;
+        let min = Math.floor(current / 1000 / 60) % 60;
+        let desc = '';
+        if (min >= 1) {
+            desc += min+"min ";
+        }
+        desc += s + "s";
+        showElement.innerHTML = desc;
+    }
+</script>

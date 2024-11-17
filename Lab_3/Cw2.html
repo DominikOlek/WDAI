@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+
+<html lang="pl" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Main</title>
+    <link rel="stylesheet" href="" />
+    <style>
+    </style>
+</head>
+<body>
+    <h1>Ćwiczenie 2</h1>
+    <form onsubmit="return generuj(this)">
+        <label>Minimalna długość hasła<input type="text" name="min" placeholder="Mini" /> </label>
+        <label>Maksymalna długość hasła<input type="text" name="maks" placeholder="Maks" /> </label>
+        <label>Czy hasło ma zawierać wielkie litery? <input type="checkbox" name="wielkie"></label>
+        <label>Czy hasło ma zawierać znaki specjalne? <input type="checkbox" name="special"></label>
+        <input type="submit" value="Wygeneruj hasło">
+    </form>
+</body>
+</html>
+<script>
+
+    function generuj(form) {
+        let zbior = "abcdefghijklmnopqrstuvwxyz0123456789";
+        let duze = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+        let special = "/!.,_-|@$%&";
+        let haslo = "";
+        if (Number(form.maks.value) <= Number(form.min.value)) { alert('Zle dane'); return; }
+        let ile = Number(form.min.value) + Math.round(Math.random() * (Number(form.maks.value) - Number(form.min.value)));
+        if (form.wielkie.checked)
+            zbior += duze;
+        if (form.special.checked)
+            zbior += special;
+
+        for (let i = 0; i < ile; i += 1) {
+            let poz = Math.floor(Math.random() * zbior.length);
+            haslo += zbior.charAt(poz);
+        }
+        alert(haslo);
+        return false;
+    }
+</script>
