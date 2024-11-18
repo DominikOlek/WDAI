@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+
+<html lang="pl" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Gra na zadanie</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            color: white;
+            text-shadow: -1px 0 rgb(98, 182, 3), 0 1px rgb(98, 182, 3), 1px 0 rgb(98, 182, 3), 0 -1px rgb(98, 182, 3);
+        }
+        #canva {
+            background-image: url(images/board-bg.jpg);
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;
+            cursor:none;
+        }
+        #popout {
+            position: absolute;
+            width: 20vw;
+            height: 20vw;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%,-50%);
+            text-align: center;
+
+            display:none;
+        }
+        h1{
+            margin:0;
+        }
+        button {
+            background-color: transparent;
+            width: 50%;
+            height: 20%;
+            font-size: 120%;
+            color: white;
+            text-shadow: -1px 0 rgb(98, 182, 3), 0 1px rgb(98, 182, 3), 1px 0 rgb(98, 182, 3), 0 -1px rgb(98, 182, 3);
+        }
+    </style>
+</head>
+<body>
+    <canvas id="canva"></canvas>
+    <div id="popout">
+        <h1>Przegrałeś</h1>
+        <p>Twój wynik: </p><p id="wynik"></p>
+        <p>Najlepszy wynik: </p><p id="best"></p>
+        <button onclick="start()">Resetuj</button>
+    </div>
+</body>
+</html>
+<script src="Script.js">
+</script>
