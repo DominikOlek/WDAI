@@ -1,0 +1,583 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\produkty\\Komentarz.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Components\\produkty\\Komentarz.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\produkty\\Komentarze.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Components\\produkty\\Komentarze.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\produkty\\KomentarzI.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Components\\produkty\\KomentarzI.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\Koszyk\\Produkt.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Components\\Koszyk\\Produkt.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\Koszyk\\NowyKoszyk.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Components\\Koszyk\\NowyKoszyk.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\efekty\\Odliczanie.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Components\\efekty\\Odliczanie.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\efekty\\Tytul.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Components\\efekty\\Tytul.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\efekty\\Liczik.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Components\\efekty\\Liczik.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\studenci\\Dodawanie.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Components\\studenci\\Dodawanie.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\studenci\\StudentManager.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Components\\studenci\\StudentManager.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\studenci\\StudentI.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Components\\studenci\\StudentI.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\studenci\\Studenci.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Components\\studenci\\Studenci.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\inne\\Aktualizacja.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Components\\inne\\Aktualizacja.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\Koszyk\\Koszyk.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Components\\Koszyk\\Koszyk.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\inne\\Ternary.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Components\\inne\\Ternary.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\Formularze\\Logowanie.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Components\\Formularze\\Logowanie.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\Formularze\\Haslo.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Components\\Formularze\\Haslo.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\Formularze\\Formularz.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Components\\Formularze\\Formularz.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\Liczniki\\Przycisk.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Components\\Liczniki\\Przycisk.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\Liczniki\\NowyLicznik.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Components\\Liczniki\\NowyLicznik.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\Liczniki\\Liczik.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Components\\Liczniki\\Liczik.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\WDAI\\Lab_5\\Lab5\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 38,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:30:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:490213655:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1397882721:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:22:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:24:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:25:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:26:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.css",
+              "DocumentMoniker": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\App.css",
+              "RelativeDocumentMoniker": "src\\App.css",
+              "ToolTip": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\App.css",
+              "RelativeToolTip": "src\\App.css",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-06T11:19:34.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Produkt.tsx",
+              "DocumentMoniker": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\Koszyk\\Produkt.tsx",
+              "RelativeDocumentMoniker": "src\\Components\\Koszyk\\Produkt.tsx",
+              "ToolTip": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\Koszyk\\Produkt.tsx",
+              "RelativeToolTip": "src\\Components\\Koszyk\\Produkt.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-10T22:54:23.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NowyKoszyk.tsx",
+              "DocumentMoniker": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\Koszyk\\NowyKoszyk.tsx",
+              "RelativeDocumentMoniker": "src\\Components\\Koszyk\\NowyKoszyk.tsx",
+              "ToolTip": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\Koszyk\\NowyKoszyk.tsx",
+              "RelativeToolTip": "src\\Components\\Koszyk\\NowyKoszyk.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-10T23:03:21.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentI.tsx",
+              "DocumentMoniker": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\studenci\\StudentI.tsx",
+              "RelativeDocumentMoniker": "src\\Components\\studenci\\StudentI.tsx",
+              "ToolTip": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\studenci\\StudentI.tsx",
+              "RelativeToolTip": "src\\Components\\studenci\\StudentI.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-14T00:34:46.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Studenci.tsx",
+              "DocumentMoniker": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\studenci\\Studenci.tsx",
+              "RelativeDocumentMoniker": "src\\Components\\studenci\\Studenci.tsx",
+              "ToolTip": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\studenci\\Studenci.tsx",
+              "RelativeToolTip": "src\\Components\\studenci\\Studenci.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-14T00:02:48.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentManager.tsx",
+              "DocumentMoniker": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\studenci\\StudentManager.tsx",
+              "RelativeDocumentMoniker": "src\\Components\\studenci\\StudentManager.tsx",
+              "ToolTip": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\studenci\\StudentManager.tsx",
+              "RelativeToolTip": "src\\Components\\studenci\\StudentManager.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-14T00:11:55.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dodawanie.tsx",
+              "DocumentMoniker": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\studenci\\Dodawanie.tsx",
+              "RelativeDocumentMoniker": "src\\Components\\studenci\\Dodawanie.tsx",
+              "ToolTip": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\studenci\\Dodawanie.tsx",
+              "RelativeToolTip": "src\\Components\\studenci\\Dodawanie.tsx",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwCsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-14T00:17:16.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Liczik.tsx",
+              "DocumentMoniker": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\efekty\\Liczik.tsx",
+              "RelativeDocumentMoniker": "src\\Components\\efekty\\Liczik.tsx",
+              "ToolTip": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\efekty\\Liczik.tsx",
+              "RelativeToolTip": "src\\Components\\efekty\\Liczik.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-14T15:24:29.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Odliczanie.tsx",
+              "DocumentMoniker": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\efekty\\Odliczanie.tsx",
+              "RelativeDocumentMoniker": "src\\Components\\efekty\\Odliczanie.tsx",
+              "ToolTip": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\efekty\\Odliczanie.tsx",
+              "RelativeToolTip": "src\\Components\\efekty\\Odliczanie.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-14T15:36:39.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tytul.tsx",
+              "DocumentMoniker": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\efekty\\Tytul.tsx",
+              "RelativeDocumentMoniker": "src\\Components\\efekty\\Tytul.tsx",
+              "ToolTip": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\efekty\\Tytul.tsx",
+              "RelativeToolTip": "src\\Components\\efekty\\Tytul.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-14T15:31:24.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Komentarz.tsx",
+              "DocumentMoniker": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\produkty\\Komentarz.tsx",
+              "RelativeDocumentMoniker": "src\\Components\\produkty\\Komentarz.tsx",
+              "ToolTip": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\produkty\\Komentarz.tsx",
+              "RelativeToolTip": "src\\Components\\produkty\\Komentarz.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-14T17:00:59.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Komentarze.tsx",
+              "DocumentMoniker": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\produkty\\Komentarze.tsx",
+              "RelativeDocumentMoniker": "src\\Components\\produkty\\Komentarze.tsx",
+              "ToolTip": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\produkty\\Komentarze.tsx",
+              "RelativeToolTip": "src\\Components\\produkty\\Komentarze.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-14T17:15:18.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KomentarzI.tsx",
+              "DocumentMoniker": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\produkty\\KomentarzI.tsx",
+              "RelativeDocumentMoniker": "src\\Components\\produkty\\KomentarzI.tsx",
+              "ToolTip": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\produkty\\KomentarzI.tsx",
+              "RelativeToolTip": "src\\Components\\produkty\\KomentarzI.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-14T17:19:56.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Aktualizacja.tsx",
+              "DocumentMoniker": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\inne\\Aktualizacja.tsx",
+              "RelativeDocumentMoniker": "src\\Components\\inne\\Aktualizacja.tsx",
+              "ToolTip": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\inne\\Aktualizacja.tsx",
+              "RelativeToolTip": "src\\Components\\inne\\Aktualizacja.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-13T23:48:46.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Koszyk.tsx",
+              "DocumentMoniker": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\Koszyk\\Koszyk.tsx",
+              "RelativeDocumentMoniker": "src\\Components\\Koszyk\\Koszyk.tsx",
+              "ToolTip": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\Koszyk\\Koszyk.tsx",
+              "RelativeToolTip": "src\\Components\\Koszyk\\Koszyk.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-10T22:53:25.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Ternary.tsx",
+              "DocumentMoniker": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\inne\\Ternary.tsx",
+              "RelativeDocumentMoniker": "src\\Components\\inne\\Ternary.tsx",
+              "ToolTip": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\inne\\Ternary.tsx",
+              "RelativeToolTip": "src\\Components\\inne\\Ternary.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-14T00:01:36.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Logowanie.tsx",
+              "DocumentMoniker": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\Formularze\\Logowanie.tsx",
+              "RelativeDocumentMoniker": "src\\Components\\Formularze\\Logowanie.tsx",
+              "ToolTip": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\Formularze\\Logowanie.tsx",
+              "RelativeToolTip": "src\\Components\\Formularze\\Logowanie.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-13T23:14:15.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Haslo.tsx",
+              "DocumentMoniker": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\Formularze\\Haslo.tsx",
+              "RelativeDocumentMoniker": "src\\Components\\Formularze\\Haslo.tsx",
+              "ToolTip": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\Formularze\\Haslo.tsx",
+              "RelativeToolTip": "src\\Components\\Formularze\\Haslo.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-13T22:30:56.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Formularz.tsx",
+              "DocumentMoniker": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\Formularze\\Formularz.tsx",
+              "RelativeDocumentMoniker": "src\\Components\\Formularze\\Formularz.tsx",
+              "ToolTip": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\Formularze\\Formularz.tsx",
+              "RelativeToolTip": "src\\Components\\Formularze\\Formularz.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-13T22:15:51.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Przycisk.tsx",
+              "DocumentMoniker": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\Liczniki\\Przycisk.tsx",
+              "RelativeDocumentMoniker": "src\\Components\\Liczniki\\Przycisk.tsx",
+              "ToolTip": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\Liczniki\\Przycisk.tsx",
+              "RelativeToolTip": "src\\Components\\Liczniki\\Przycisk.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-13T22:02:57.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NowyLicznik.tsx",
+              "DocumentMoniker": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\Liczniki\\NowyLicznik.tsx",
+              "RelativeDocumentMoniker": "src\\Components\\Liczniki\\NowyLicznik.tsx",
+              "ToolTip": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\Liczniki\\NowyLicznik.tsx",
+              "RelativeToolTip": "src\\Components\\Liczniki\\NowyLicznik.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-13T22:02:29.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Liczik.tsx",
+              "DocumentMoniker": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\Liczniki\\Liczik.tsx",
+              "RelativeDocumentMoniker": "src\\Components\\Liczniki\\Liczik.tsx",
+              "ToolTip": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\Components\\Liczniki\\Liczik.tsx",
+              "RelativeToolTip": "src\\Components\\Liczniki\\Liczik.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-13T21:36:25.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "App.tsx",
+              "DocumentMoniker": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\App.tsx",
+              "RelativeDocumentMoniker": "src\\App.tsx",
+              "ToolTip": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\App.tsx",
+              "RelativeToolTip": "src\\App.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-10T22:50:16.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "main.tsx",
+              "DocumentMoniker": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\main.tsx",
+              "RelativeDocumentMoniker": "src\\main.tsx",
+              "ToolTip": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\src\\main.tsx",
+              "RelativeToolTip": "src\\main.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-13T20:58:56.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "D:\\WDAI\\WDAI\\Lab_5\\Lab5\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-13T20:58:50.325Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f37f5141-198e-4181-9582-7b026ee8f915}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:27:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:28:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:29:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:23:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
