@@ -1,0 +1,328 @@
+{
+	"info": {
+		"_postman_id": "12548b24-ce83-4d31-ba7b-ee111b7bbc4c",
+		"name": "Ksiegarnia",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "15821917"
+	},
+	"item": [
+		{
+			"name": "WszystkieKsiegi",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:5000/api/books",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"books"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "DokladnaKsiega",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:5000/api/books/1",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"books",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "DodanieKsiegi",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJkb21pbmlrQGdtYWlsLmNvbSIsImlhdCI6MTczMjY1NjI1MSwiZXhwIjoxNzMyNjU4MjUxfQ.6LxnSE5tI6CioeRA7_55KmwKK5X8Ofngvom-5qEh0Sc",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"nazwa\": \"Dziady cz.2\",\r\n    \"autor\": \"A.Mickiewicz\",\r\n    \"rok\": \"1832\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://127.0.0.1:5000/api/books",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"books"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "UsuwanieKsiegi",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:5000/api/books/3",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"books",
+						"3"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "ZamówieniaDla",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:5000/api/orders/1",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"orders",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "DodawanieZamowienia",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJkb21pbmlrQGdtYWlsLmNvbSIsImlhdCI6MTczMjY1NjI1MSwiZXhwIjoxNzMyNjU4MjUxfQ.6LxnSE5tI6CioeRA7_55KmwKK5X8Ofngvom-5qEh0Sc",
+						"type": "text",
+						"disabled": true
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MiwidXNlcm5hbWUiOiJkb21pbmlrMkBnbWFpbC5jb20iLCJpYXQiOjE3MzI2NTc4MDMsImV4cCI6MTczMjY1OTgwM30.FPZcQ4m6yiXYAssISxpSTfZ7X7IlKPi-4ruxnvE_0vw",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"IDKSIAZKI\": 2,\r\n    \"ilosc\": 30\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://127.0.0.1:5000/api/orders",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"orders"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "UsuwanieZamowienia",
+			"request": {
+				"method": "DELETE",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJkb21pbmlrQGdtYWlsLmNvbSIsImlhdCI6MTczMjY1ODg2NywiZXhwIjoxNzMyNjYwODY3fQ.dbqm73ZhCEK7O3vpQn26L2ugxydGLd2eIXJvhCBZNqE",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://127.0.0.1:5000/api/orders/1",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"orders",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "EdycjaZamowienia",
+			"request": {
+				"method": "PATCH",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJkb21pbmlrQGdtYWlsLmNvbSIsImlhdCI6MTczMjY1ODg2NywiZXhwIjoxNzMyNjYwODY3fQ.dbqm73ZhCEK7O3vpQn26L2ugxydGLd2eIXJvhCBZNqE",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"IDKSIAZKI\": 2,\r\n    \"ilosc\": 404\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://127.0.0.1:5000/api/orders/2",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"orders",
+						"2"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Rejestracja",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"email\": \"dominik2@gmail.com\",\r\n    \"haslo\": \"1234\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://127.0.0.1:5000/api/register",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"register"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Logowanie",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"email\": \"dominik@gmail.com\",\r\n    \"haslo\": \"123\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://127.0.0.1:5000/api/login",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"login"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

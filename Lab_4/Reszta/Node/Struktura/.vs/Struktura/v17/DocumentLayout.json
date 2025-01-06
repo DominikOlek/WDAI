@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WDAI\\WDAI\\Lab_4\\Reszta\\Node\\Struktura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\WDAI\\Lab_5\\my-app\\src\\reportWebVitals.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\WDAI\\Lab_4\\Reszta\\Node\\Struktura\\Lab.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\WDAI\\Lab_4\\Reszta\\Node\\Struktura\\Controllers\\OrderController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\OrderController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\WDAI\\Lab_4\\Reszta\\Node\\Struktura\\Controllers\\BookController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\BookController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\WDAI\\Lab_4\\Reszta\\Node\\Struktura\\Models\\BookModel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\BookModel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\WDAI\\Lab_4\\Reszta\\Node\\Struktura\\Authorize.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Authorize.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\WDAI\\Lab_4\\Reszta\\Node\\Struktura\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WDAI\\WDAI\\Lab_4\\Reszta\\Node\\Struktura\\Routes\\BookR.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Routes\\BookR.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:490213655:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "reportWebVitals.ts",
+              "DocumentMoniker": "D:\\WDAI\\WDAI\\Lab_5\\my-app\\src\\reportWebVitals.ts",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Lab_5\\my-app\\src\\reportWebVitals.ts",
+              "ToolTip": "D:\\WDAI\\WDAI\\Lab_5\\my-app\\src\\reportWebVitals.ts",
+              "RelativeToolTip": "..\\..\\..\\..\\Lab_5\\my-app\\src\\reportWebVitals.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-12-09T13:38:41.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderController.js",
+              "DocumentMoniker": "D:\\WDAI\\WDAI\\Lab_4\\Reszta\\Node\\Struktura\\Controllers\\OrderController.js",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.js",
+              "ToolTip": "D:\\WDAI\\WDAI\\Lab_4\\Reszta\\Node\\Struktura\\Controllers\\OrderController.js",
+              "RelativeToolTip": "Controllers\\OrderController.js",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-09T13:34:38.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": ".env",
+              "DocumentMoniker": "D:\\WDAI\\WDAI\\Lab_4\\Reszta\\Node\\Struktura\\.env",
+              "RelativeDocumentMoniker": ".env",
+              "ToolTip": "D:\\WDAI\\WDAI\\Lab_4\\Reszta\\Node\\Struktura\\.env",
+              "RelativeToolTip": ".env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-09T13:30:24.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookR.js",
+              "DocumentMoniker": "D:\\WDAI\\WDAI\\Lab_4\\Reszta\\Node\\Struktura\\Routes\\BookR.js",
+              "RelativeDocumentMoniker": "Routes\\BookR.js",
+              "ToolTip": "D:\\WDAI\\WDAI\\Lab_4\\Reszta\\Node\\Struktura\\Routes\\BookR.js",
+              "RelativeToolTip": "Routes\\BookR.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-09T13:30:21.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookModel.js",
+              "DocumentMoniker": "D:\\WDAI\\WDAI\\Lab_4\\Reszta\\Node\\Struktura\\Models\\BookModel.js",
+              "RelativeDocumentMoniker": "Models\\BookModel.js",
+              "ToolTip": "D:\\WDAI\\WDAI\\Lab_4\\Reszta\\Node\\Struktura\\Models\\BookModel.js",
+              "RelativeToolTip": "Models\\BookModel.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-09T13:30:18.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookController.js",
+              "DocumentMoniker": "D:\\WDAI\\WDAI\\Lab_4\\Reszta\\Node\\Struktura\\Controllers\\BookController.js",
+              "RelativeDocumentMoniker": "Controllers\\BookController.js",
+              "ToolTip": "D:\\WDAI\\WDAI\\Lab_4\\Reszta\\Node\\Struktura\\Controllers\\BookController.js",
+              "RelativeToolTip": "Controllers\\BookController.js",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-09T12:49:08.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Authorize.js",
+              "DocumentMoniker": "D:\\WDAI\\WDAI\\Lab_4\\Reszta\\Node\\Struktura\\Authorize.js",
+              "RelativeDocumentMoniker": "Authorize.js",
+              "ToolTip": "D:\\WDAI\\WDAI\\Lab_4\\Reszta\\Node\\Struktura\\Authorize.js",
+              "RelativeToolTip": "Authorize.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-09T12:48:50.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab.js",
+              "DocumentMoniker": "D:\\WDAI\\WDAI\\Lab_4\\Reszta\\Node\\Struktura\\Lab.js",
+              "RelativeDocumentMoniker": "Lab.js",
+              "ToolTip": "D:\\WDAI\\WDAI\\Lab_4\\Reszta\\Node\\Struktura\\Lab.js",
+              "RelativeToolTip": "Lab.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-09T12:21:15.238Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
